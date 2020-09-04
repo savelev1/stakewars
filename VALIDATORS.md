@@ -274,7 +274,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://www.nodeasy.com/nodeasy_360_360.jpg" width="40"> | [Nodeasy](https://www.nodeasy.com/) | Nodeasy is a website dedicated to statistics, monitoring masternode cryptocurrencies and providing related node building services. | [@nodeasy](https://explorer.testnet.near.org/accounts/nodeasy) | CN |
 | V | DenysOf | Learning by doing | @denysof-pool.stakehouse.betanet | -% | IE | | |
 | | KazanPool | Stake with us, it's easy! | @kazantip.betanet | 10% | RU | | |
-
+| <img src="https://avatars2.githubusercontent.com/u/26545493?s=40&u=bfba8360f6c4e06b0bb16c390c476770663ff06a&v=4" width="40"> | [Savelev](https://tele.click/savelev96) | Stake pool for your game change | [@savelev.betanet](https://explorer.betanet.near.org/accounts/savelev.betanet) | 10% | RU | [@savelev.stakehouse.betanet](https://explorer.betanet.near.org/accounts/savelev.stakehouse.betanet) | YES |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.
